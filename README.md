@@ -24,6 +24,27 @@ python .\run.py --wd .\logs\ --mode demo --bg_img .\logs\bg.jfif
 ```
 The default specification currently loaded is "A black microwave and a nice looking cooking oven". Both objects are below 200 milles. The microwave is above the oven and either completely to the left or completely to the right of it. The oven is also taller than the microwave.
 
+## Citation
+If you find this useful in your work, please cite:
+```
+@article{Jacobson2025Integrating,
+title = {Integrating symbolic reasoning into neural generative models for design generation},
+journal = {Artificial Intelligence},
+volume = {339},
+pages = {104257},
+year = {2025},
+issn = {0004-3702},
+doi = {https://doi.org/10.1016/j.artint.2024.104257},
+url = {https://www.sciencedirect.com/science/article/pii/S0004370224001930},
+author = {Maxwell J. Jacobson and Yexiang Xue},
+keywords = {Constraint reasoning, Neural generative models, Constrained content generation},
+}
+```
+
+Find the paper at: 
+ - https://www.sciencedirect.com/science/article/abs/pii/S0004370224001930
+ - https://arxiv.org/abs/2310.09383
+
 ## Disclaimer
 This is not the final version of the SPRING project. The code will be updated to a more comprehensive version, enhancing readability and functionality.
 
