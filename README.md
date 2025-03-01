@@ -1,5 +1,6 @@
 
-# SPRING Project
+# SPRING Project -- Integrating symbolic reasoning into neural generative models for design generation
+
 
 ## Introduction
 This repository contains the initial release of the Spatial Reasoning Integrated Generator (SPRING) for design generation, as detailed in our accompanying paper. SPRING is a novel approach that integrates neural and symbolic reasoning to produce designs that not only are aesthetically pleasing but also adhere to explicit user specifications and implicit rules of aesthetics, utility, and convenience.
